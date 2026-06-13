@@ -9,6 +9,8 @@ pymongo
 from_root
 dill
 certifi
+fastapi
+uvicorn
 PyYAML
 boto3
 mypy-boto3-s3
